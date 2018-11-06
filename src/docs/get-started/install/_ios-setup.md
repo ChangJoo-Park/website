@@ -78,7 +78,7 @@ To deploy your Flutter app to a physical iOS device, you’ll need some addition
           <br>
           Development and testing is supported for any Apple ID. Enrolling in the
           Apple Developer Program is required to distribute your app to the App
-          Store. View the [differences between Apple membership][].
+          Store. View the [differences between Apple membership](https://developer.apple.com/support/compare-memberships/).
 
         * The first time you use an attached physical device for iOS
           development, you will need to trust both your Mac and the Development
